@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ite1l_chap5_PT1_Badua_Markowen ()/1.0.0": {
+        "runtime": {
+          "ite1l_chap5_PT1_Badua_Markowen ().dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ite1l_chap5_PT1_Badua_Markowen ()/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
